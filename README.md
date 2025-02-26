@@ -35,7 +35,7 @@ We welcome contributions from the community! To contribute:
 3. Make your changes and test them thoroughly.
 4. Submit a pull request with a clear description of the changes.
 
-Please follow our [contribution guidelines](https://github.com/offerte-adviseur/.github/blob/main/CONTRIBUTING.md) for more details.
+Please follow our [contribution guidelines](CONTRIBUTING.md) for more details.
 
 ## 🙌 Maintainers
 A huge thanks to our amazing maintainers for keeping these SDKs up to date:
